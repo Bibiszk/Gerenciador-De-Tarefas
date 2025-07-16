@@ -37,7 +37,7 @@ javac *.java
 4. Execute o programa:
 java ListaDeTarefa
 
-💡 Exemplo de Execução
+## 💡 Exemplo de Execução
 
 === MENU ===
 1. Adicionar tarefa
@@ -53,7 +53,7 @@ Escolha uma opção: 3
 📋 Lista de Tarefas:
 - Estudar Collections
   
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Java 8+
 
@@ -63,7 +63,7 @@ ArrayList
 
 Estruturas de repetição e controle
 
-📌 Conceitos Praticados
+## 📌 Conceitos Praticados
 
 ✅ Programação Orientada a Objetos (POO)
 
@@ -73,5 +73,5 @@ Estruturas de repetição e controle
 
 ✅ Menu interativo com entrada do usuário
 
-🧠 Autor
+## 🧠 Autor
 Desenvolvido por [Bianca]
