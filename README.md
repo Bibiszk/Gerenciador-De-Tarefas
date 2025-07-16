@@ -52,7 +52,9 @@ Digite a descrição da tarefa: Estudar Collections
 Escolha uma opção: 3
 📋 Lista de Tarefas:
 - Estudar Collections
+  
 🛠️ Tecnologias Utilizadas
+
 Java 8+
 
 Scanner (entrada de dados)
@@ -62,6 +64,7 @@ ArrayList
 Estruturas de repetição e controle
 
 📌 Conceitos Praticados
+
 ✅ Programação Orientada a Objetos (POO)
 
 ✅ Encapsulamento
