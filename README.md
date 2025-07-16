@@ -21,32 +21,24 @@ Com interface de menu no terminal para facilitar a prática e testes dos método
 
 ## 🏗️ Estrutura do Projeto
 
-```bash
 GerenciadorDeTarefas/
 └── src/
     ├── Tarefa.java            # Classe que representa uma tarefa
     └── ListaDeTarefa.java     # Classe com a lógica + método main com menu
 ▶️ Como Executar
 1. Clone este repositório:
-bash
-Copiar
-Editar
+
 git clone https://github.com/seu-usuario/GerenciadorDeTarefas.git
 cd GerenciadorDeTarefas/src
+
 2. Compile os arquivos:
-bash
-Copiar
-Editar
 javac *.java
-3. Execute o programa:
-bash
-Copiar
-Editar
+
+4. Execute o programa:
 java ListaDeTarefa
+
 💡 Exemplo de Execução
-markdown
-Copiar
-Editar
+
 === MENU ===
 1. Adicionar tarefa
 2. Remover tarefa
@@ -79,4 +71,4 @@ Estruturas de repetição e controle
 ✅ Menu interativo com entrada do usuário
 
 🧠 Autor
-Desenvolvido por [Seu Nome Aqui]
+Desenvolvido por [Bianca]
